@@ -4,6 +4,25 @@
       <th> Total Projects Worked </th>
       <td> 30+ </td>
     </tr>
+  <tr>
+      <th> List of Project Domains Worked </th>
+      <td>
+      <ul>
+        <li>Banking</li>
+        <li>Health Care</li>
+        <li>Finance</li>
+        <li>Telecom</li>
+        <li>Digital Marketing</li>
+        <li>HR</li>
+        <li>Real Estate</li>
+        <li>Electronics</li>
+        <li>Automotive</li>
+        <li>E - Commerce</li>
+        <li>Aviation</li>
+        <li>Botany</li>
+      </ul>
+    </td>
+    </tr>
  </table>
 
 # My Data Science and Machine learning Portfolio
