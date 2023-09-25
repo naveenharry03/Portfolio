@@ -4,7 +4,7 @@
       <th> Total Projects </th>
       <td>
       <ul>
-         <li>30+</li>
+         <li>30+ across various domains</li>
       </ul>
       </td>
     </tr>
