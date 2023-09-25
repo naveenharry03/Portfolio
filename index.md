@@ -277,3 +277,21 @@ In this case study, we tackle the challenge of automating the classification of 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
 <center><img src="assets/img/automatic ticket classification.jpeg"/></center>
+<br>
+### Credit Card Fraud Detection
+
+This project focuses on predicting fraudulent credit card transactions using machine learning models with customer-level data. The dataset, consisting of 2,84,807 transactions, including 492 fraudulent cases, requires addressing class imbalance.Banking fraud poses a significant threat, estimated to reach $30 billion globally by 2020. Machine learning plays a crucial role in proactive fraud detection, helping banks reduce manual reviews, chargebacks, and the denial of legitimate transactions.Credit card fraud encompasses various tactics, such as skimming, manipulation, counterfeiting, theft, and telemarketing. By leveraging machine learning, this project aids financial institutions in combating fraud, preserving customer trust, and minimizing financial losses and operational expenses.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+
+<center><img src="assets/img/credit card fraud detection.webp"/></center>
+<br>
+### Stock Market Prediction
+
+This project focuses on predicting fraudulent credit card transactions using machine learning models with customer-level data. The dataset, consisting of 2,84,807 transactions, including 492 fraudulent cases, requires addressing class imbalance.Banking fraud poses a significant threat, estimated to reach $30 billion globally by 2020. Machine learning plays a crucial role in proactive fraud detection, helping banks reduce manual reviews, chargebacks, and the denial of legitimate transactions.Credit card fraud encompasses various tactics, such as skimming, manipulation, counterfeiting, theft, and telemarketing. By leveraging machine learning, this project aids financial institutions in combating fraud, preserving customer trust, and minimizing financial losses and operational expenses.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+
+<center><img src="assets/img/Stock Market Prediction.jpg"/></center>
