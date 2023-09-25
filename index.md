@@ -27,10 +27,9 @@
       <th> Certifications </th>
       <td>
       <ul>
-        <li><a href="pdf/resume.pdf">Executive PG Programme in artifical intelligence and Machine Learning </a></li>
-        <li>Health Care</li>
-        <li>Finance</li>
-        <li>Telecom</li>
+        <li><a href="docs/certificate.pdf">Executive PG Programme in artifical intelligence and Machine Learning </a></li>
+        <li><a href="pdf/resume.pdf">Chatgpt Certificate </a></li>
+        <li><a href="pdf/resume.pdf">Azure AI Fundamentals </a></li>
       </ul>
     </td>
     </tr>
