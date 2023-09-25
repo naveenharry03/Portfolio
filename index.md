@@ -2,7 +2,11 @@
  <table>
     <tr>
       <th> Total Projects Worked </th>
-      <td> 30+ </td>
+      <td>
+      <ul>
+         <li>30+</li>
+      </ul>
+      </td>
     </tr>
   <tr>
       <th> List of Domains Worked </th>
