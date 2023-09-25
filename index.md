@@ -7,7 +7,7 @@ This allowed for more informed decisions on loan approvals, including options su
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/fraud_detection.jpg"/></center>
+<center><img src="assets/img/lendingclub.jpg"/></center>
 
 ### Simple Linear Regression - Sales Prediction and Marketing Analysis
 
