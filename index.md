@@ -55,7 +55,7 @@
     </tr>
  </table>
 
-# My Data Science and Machine learning Portfolio
+# My Data Science and Machine learning Projects
 <br>
 ### Exploratory Data Analysis - Lending Club Case Study
 
