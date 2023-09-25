@@ -31,7 +31,7 @@ Examined a digital media company's viewership decline for a show's launch. Inves
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/audience analysis.jpg"/></center>
+<center><img src="assets/img/audience analysis.png"/></center>
 
 ### Multiple Linear Regression - Bike Sharing Demand Analysis
 
@@ -65,7 +65,7 @@ In this project, implemented a full-fledged Naive Bayes classifier in Python to 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/SMS Spam detection.jpg"/></center>
+<center><img src="assets/img/SMS Spam detection.png"/></center>
 
 ### Sales Prediction and Model Complexity Management
 
@@ -74,7 +74,7 @@ In this project, experimented an in-depth analysis to predict sales based on mar
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/salesprediction.jpg"/></center>
+<center><img src="assets/img/salesprediction.webp"/></center>
 
 ### Car Price Prediction and Model Evaluation
 
@@ -119,7 +119,7 @@ This project compares decision trees, random forests, and logistic regression fo
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/evaluate churn prediction.jpg"/></center>
+<center><img src="assets/img/evaluate churn prediction.png"/></center>
 
 ### Heart Disease Predicting Using Decision Trees
 
@@ -173,7 +173,7 @@ Developed a gesture recognition feature for smart TVs, aiming to enhance user ex
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/Gesture recognition.jpg"/></center>
+<center><img src="assets/img/Gesture recognition.png"/></center>
 
 ### Enhancing Aircraft Engine Reliability with Predictive Maintenance using RNN
 
@@ -182,7 +182,7 @@ In the domain of aviation, ensuring aircraft engine reliability is paramount to 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/predictive-maintenance-the-future-of-aviation-1.jpg"/></center>
+<center><img src="assets/img/predictive-maintenance-the-future-of-aviation-1.png"/></center>
 
 ### Enhancing Flower image Classification with Deep Learning
 
@@ -191,7 +191,7 @@ In this flower classification project, we employ deep learning, specifically usi
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/classify flower images.jpg"/></center>
+<center><img src="assets/img/classify flower images.png"/></center>
 
 ### Chest X-Ray Anomaly Detection using CNNs
 
@@ -200,7 +200,7 @@ In this flower classification project, we employ deep learning, specifically usi
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/chest x ray detection.jpg"/></center>
+<center><img src="assets/img/chest x ray detection.png"/></center>
 
 ### NLP for Medical Texts: Extracting Disease-Treatment Relationships
 
@@ -218,4 +218,4 @@ In this case study, we tackle the challenge of automating the classification of 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
 
-<center><img src="assets/img/automatic ticket classification.jpg"/></center>
+<center><img src="assets/img/automatic ticket classification.jpeg"/></center>
