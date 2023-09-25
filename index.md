@@ -1,3 +1,11 @@
+# My BackGround
+ <table>
+    <tr>
+      <th> Total Projects Worked </th>
+      <td> 30+ </td>
+    </tr>
+ </table>
+
 # My Data Science and Machine learning Portfolio
 <br>
 ### Exploratory Data Analysis - Lending Club Case Study
