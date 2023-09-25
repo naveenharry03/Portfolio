@@ -1,7 +1,7 @@
 # My BackGround
  <table>
     <tr>
-      <th> Total Projects Worked </th>
+      <th> Total Projects </th>
       <td>
       <ul>
          <li>30+</li>
@@ -9,7 +9,7 @@
       </td>
     </tr>
   <tr>
-      <th> List of Domains Worked </th>
+      <th> List of Domains </th>
       <td>
       <ul>
         <li>Banking</li>
