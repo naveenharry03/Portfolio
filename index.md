@@ -5,7 +5,7 @@
       <td> 30+ </td>
     </tr>
   <tr>
-      <th> List of Project Domains Worked </th>
+      <th> List of Domains Worked </th>
       <td>
       <ul>
         <li>Banking</li>
@@ -20,6 +20,33 @@
         <li>E - Commerce</li>
         <li>Aviation</li>
         <li>Botany</li>
+      </ul>
+    </td>
+    </tr>
+   <tr>
+      <th> Certifications </th>
+      <td>
+      <ul>
+        <li><a href="pdf/resume.pdf">Executive PG Programme in artifical intelligence and Machine Learning </a></li>
+        <li>Health Care</li>
+        <li>Finance</li>
+        <li>Telecom</li>
+      </ul>
+    </td>
+    </tr>
+   <tr>
+      <th> Skills </th>
+      <td>
+      <ul>
+        <li>Statistics Essentials</li>
+        <li>Machine Learning</li>
+        <li>Advanced Machine Learning</li>
+        <li>Deep Learning</li>
+        <li>NLP</li>
+        <li>MLOPS (Electives)</li>
+        <li>Methodologies</li>
+        <li>Data Science Pre requisite</li>
+        <li>Generative AI</li>
       </ul>
     </td>
     </tr>
