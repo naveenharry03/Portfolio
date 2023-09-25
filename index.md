@@ -28,7 +28,7 @@
       <td>
       <ul>
         <li><a href="docs/certificate.pdf">Executive PG Programme in Machine Learning and artifical intelligence </a></li>
-        <li><a href="docs/Chatgpt Certifications.pdf">Chatgpt Certificate </a></li>
+        <li><a href="docs/Chatgpt Certifications.pdf">Chatgpt Prompt Certification </a></li>
         <li><a href="docs/AI certificate Download.pdf">Azure AI Fundamentals </a></li>
       </ul>
     </td>
