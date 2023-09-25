@@ -13,6 +13,16 @@ description:
   <br>
   </p>
 
+<table>
+  <tr>
+    <th>Age</th>
+    <td>30</td>
+  </tr>
+  <tr>
+    <th>Education Details</th>
+    <td>Msc AI & ML</td>
+  </tr>
+</table>
 
 
 theme: jekyll-theme-minimal
