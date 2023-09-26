@@ -59,8 +59,8 @@
 <br>
 ### Exploratory Data Analysis - Lending Club Case Study
 
-Developed a comprehensive analysis for a consumer finance company specializing in lending. Employed Exploratory Data Analysis (EDA) techniques to identify characteristics and patterns associated with loan default risk. 
-Utilized historical loan applicant data from 2007 to 2011 to make data-driven decisions regarding loan approvals and risk minimization.Enhanced the company's risk assessment process by identifying key indicators of default. This allowed for more informed decisions on loan approvals, including options such as adjusting loan amounts and interest rates.Contributed to a significant reduction in credit loss, thereby improving the company's financial stability.
+<p style="text-align: justify;">Developed a comprehensive analysis for a consumer finance company specializing in lending. Employed Exploratory Data Analysis (EDA) techniques to identify characteristics and patterns associated with loan default risk. 
+Utilized historical loan applicant data from 2007 to 2011 to make data-driven decisions regarding loan approvals and risk minimization.Enhanced the company's risk assessment process by identifying key indicators of default. This allowed for more informed decisions on loan approvals, including options such as adjusting loan amounts and interest rates.Contributed to a significant reduction in credit loss, thereby improving the company's financial stability.</p>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/LendingClubCaseStudy)
 
@@ -68,7 +68,7 @@ Utilized historical loan applicant data from 2007 to 2011 to make data-driven de
 <br>
 ### Simple Linear Regression - Sales Prediction and Marketing Analysis
 
-Performed a comprehensive analysis utilizing Simple Linear Regression to predict sales based on various advertising channels. Conducted rigorous validation of regression assumptions, hypothesis testing, model construction, residual analysis, and predictive insights.The project provided actionable data-driven recommendations for optimizing marketing budget allocation across channels, particularly highlighting the positive impact of increased TV product sales on overall revenue. Enhanced proficiency in Simple Linear Regression fundamentals, empowering the company to make informed decisions and boost ROI.
+<p style="text-align: justify;">Performed a comprehensive analysis utilizing Simple Linear Regression to predict sales based on various advertising channels. Conducted rigorous validation of regression assumptions, hypothesis testing, model construction, residual analysis, and predictive insights.The project provided actionable data-driven recommendations for optimizing marketing budget allocation across channels, particularly highlighting the positive impact of increased TV product sales on overall revenue. Enhanced proficiency in Simple Linear Regression fundamentals, empowering the company to make informed decisions and boost ROI.</p>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Simple-Linear-Regression---Sales-Prediction-and-Marketing-Analysis)
 
@@ -76,7 +76,7 @@ Performed a comprehensive analysis utilizing Simple Linear Regression to predict
 <br>
 ### Multiple Linear Regression - Real Estate Housing Price Prediction
 
-Conducted an extensive analysis of a real estate dataset, leveraging Multiple Linear Regression to create a predictive model for house prices. The project encompassed data visualization, preprocessing (including categorical variable handling, dummy variable creation, and scaling), and a systematic feature selection approach. By performing manual feature elimination, residual analysis, and predictions, a robust linear model was established. Additionally, Recursive Feature Elimination (RFE) was employed to refine the model. This empowered the real estate company to identify crucial variables influencing property prices, enhancing their ability to strategically optimize property selling prices. The model's accuracy provided actionable insights, enabling the company to make data-driven decisions that ultimately boosted profitability.
+<p style="text-align: justify;">Conducted an extensive analysis of a real estate dataset, leveraging Multiple Linear Regression to create a predictive model for house prices. The project encompassed data visualization, preprocessing (including categorical variable handling, dummy variable creation, and scaling), and a systematic feature selection approach. By performing manual feature elimination, residual analysis, and predictions, a robust linear model was established. Additionally, Recursive Feature Elimination (RFE) was employed to refine the model. This empowered the real estate company to identify crucial variables influencing property prices, enhancing their ability to strategically optimize property selling prices. The model's accuracy provided actionable insights, enabling the company to make data-driven decisions that ultimately boosted profitability.</p>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Multiple-Linear-Regression---Real-Estate-Housing-Price-Prediction)
 
