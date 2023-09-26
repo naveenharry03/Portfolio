@@ -60,10 +60,9 @@
 ### Exploratory Data Analysis - Lending Club Case Study
 
 Developed a comprehensive analysis for a consumer finance company specializing in lending. Employed Exploratory Data Analysis (EDA) techniques to identify characteristics and patterns associated with loan default risk. 
-Utilized historical loan applicant data from 2007 to 2011 to make data-driven decisions regarding loan approvals and risk minimization.Enhanced the company's risk assessment process by identifying key indicators of default. 
-This allowed for more informed decisions on loan approvals, including options such as adjusting loan amounts and interest rates.Contributed to a significant reduction in credit loss, thereby improving the company's financial stability.
+Utilized historical loan applicant data from 2007 to 2011 to make data-driven decisions regarding loan approvals and risk minimization.Enhanced the company's risk assessment process by identifying key indicators of default. This allowed for more informed decisions on loan approvals, including options such as adjusting loan amounts and interest rates.Contributed to a significant reduction in credit loss, thereby improving the company's financial stability.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/LendingClubCaseStudy)
 
 <center><img src="assets/img/lendingclub.jpg"/></center>
 <br>
