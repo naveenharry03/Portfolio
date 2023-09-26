@@ -70,7 +70,7 @@ Utilized historical loan applicant data from 2007 to 2011 to make data-driven de
 
 Performed a comprehensive analysis utilizing Simple Linear Regression to predict sales based on various advertising channels. Conducted rigorous validation of regression assumptions, hypothesis testing, model construction, residual analysis, and predictive insights.The project provided actionable data-driven recommendations for optimizing marketing budget allocation across channels, particularly highlighting the positive impact of increased TV product sales on overall revenue. Enhanced proficiency in Simple Linear Regression fundamentals, empowering the company to make informed decisions and boost ROI.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Simple-Linear-Regression---Sales-Prediction-and-Marketing-Analysis)
 
 <center><img src="assets/img/Marketing budget analysis.jpg"/></center>
 <br>
@@ -78,7 +78,7 @@ Performed a comprehensive analysis utilizing Simple Linear Regression to predict
 
 Conducted an extensive analysis of a real estate dataset, leveraging Multiple Linear Regression to create a predictive model for house prices. The project encompassed data visualization, preprocessing (including categorical variable handling, dummy variable creation, and scaling), and a systematic feature selection approach. By performing manual feature elimination, residual analysis, and predictions, a robust linear model was established. Additionally, Recursive Feature Elimination (RFE) was employed to refine the model. This empowered the real estate company to identify crucial variables influencing property prices, enhancing their ability to strategically optimize property selling prices. The model's accuracy provided actionable insights, enabling the company to make data-driven decisions that ultimately boosted profitability.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Multiple-Linear-Regression---Real-Estate-Housing-Price-Prediction)
 
 <center><img src="assets/img/house price prediction.jpg"/></center>
 <br>
@@ -86,7 +86,7 @@ Conducted an extensive analysis of a real estate dataset, leveraging Multiple Li
 
 Examined a digital media company's viewership decline for a show's launch. Investigated potential causes, including reduced platform visitors, decreased video viewers, lowered marketing expenditure, competition from events like cricket or IPL, special holidays, and narrative plot changes. This analysis provided actionable insights to pinpoint the exact factors contributing to the viewership drop, enabling the company to strategize effectively and regain audience engagement for future shows.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/EDA-and-Linear-Regression---Media-Show-Viewership-Analysis)
 
 <center><img src="assets/img/audience analysis.png"/></center>
 <br>
