@@ -286,11 +286,39 @@ This project focuses on predicting fraudulent credit card transactions using mac
 
 <center><img src="assets/img/credit card fraud detection.webp"/></center>
 <br>
+### MLOPS - An End-to-End Pipeline
+
+The project's objective is to create an end-to-end pipeline for lead scoring, utilizing Airflow and MLflow to facilitate seamless data processing, training, and inference. The primary goal is to categorize leads based on their propensity to purchase CodePro's courses, thus optimizing lead conversion, refining targeting efforts, and eliminating inefficiencies caused by junk leads in the sales process. This initiative is driven by the business metric L2AC (Leads to Application Completion), ensuring a more efficient and data-driven approach to customer acquisition and engagement.Also Deployed another use case - heart disease through docker. Please find the basic template in the below github link
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/MLOPS---An-End-to-End-Pipeline)
+
+<center><img src="assets/img/MLOPS.png"/></center>
+<br>
+### Capstone Data Strategy Case Study
+
+This capstone data science project focuses on improving the delivery date prediction system for Olist, an e-commerce platform, with the goal of enhancing customer satisfaction and reducing inventory costs. Additionally, I have undertaken projects including sentiment analysis of Portuguese reviews, customer churn prediction, customer acquisition cost optimization, fraud detection, and price optimization, all designed to address critical business challenges for Olist. These projects leverage data-driven strategies and machine learning techniques to achieve tangible benefits such as increased revenue, reduced costs, and improved customer experience, showcasing my expertise in data science and its applications.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Capstone-Data-Strategy-Case-Study)
+
+<center><img src="assets/img/elements-of-data-strategy.webp"/></center>
+<br>
+### Sales Forecasting using Arima and SArima Model
+
+Another significant project in the data science portfolio involves sales forecasting for a French company, Perrin-Freres, known for its monthly champagne sales. Leveraging advanced time series forecasting techniques, particularly ARIMA and SARIMA models, a robust predictive system was developed. This project enables organizations to make informed decisions, optimize inventory management, and meet customer demand more effectively. Accurate sales predictions enhance operational efficiency, boost revenue, and maintain a competitive edge in the market.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Sales-Forecasting-using-Arima-and-SArima-Model)
+
+<center><img src="assets/img/sales forecast.jpeg"/></center>
+<br>
 ### Stock Market Prediction
 
 This project focuses on predicting fraudulent credit card transactions using machine learning models with customer-level data. The dataset, consisting of 2,84,807 transactions, including 492 fraudulent cases, requires addressing class imbalance.Banking fraud poses a significant threat, estimated to reach $30 billion globally by 2020. Machine learning plays a crucial role in proactive fraud detection, helping banks reduce manual reviews, chargebacks, and the denial of legitimate transactions.Credit card fraud encompasses various tactics, such as skimming, manipulation, counterfeiting, theft, and telemarketing. By leveraging machine learning, this project aids financial institutions in combating fraud, preserving customer trust, and minimizing financial losses and operational expenses.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/AI-Stock-Market-Prediction-Bot)
 
 <center><img src="assets/img/Stock Market Prediction.jpg"/></center>
+<br>
