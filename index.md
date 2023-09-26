@@ -201,7 +201,7 @@ This project focuses on employee attrition prediction, utilizing a dataset encom
 Leveraging a transnational dataset capturing transactions from 01/12/2010 to 09/12/2011 for a UK-based online retail company specializing in unique gifts, this project aims to identify distinct customer segments based on recency, frequency, and monetary value metrics. These segments enable precise marketing strategies, allowing the company to tailor its efforts to different customer groups effectively. By categorizing customers strategically, the company can optimize its marketing initiatives, enhance customer engagement, and ultimately drive sales growth and customer retention.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Customer-Segmentation-for-Targeted-Marketing-using-unsupervised-techniques)
 
 <center><img src="assets/img/retail customer segmentation.jpg"/></center>
 <br>
@@ -210,7 +210,7 @@ Leveraging a transnational dataset capturing transactions from 01/12/2010 to 09/
 This project focuses on applying K-Mode clustering to a dataset related to direct marketing campaigns conducted by a Portuguese banking institution. The dataset includes attributes such as customer age, job type, marital status, education, credit status, housing and personal loans, contact communication, last contact month, last contact day of the week, and the outcome of the previous marketing campaign. By leveraging K-Mode clustering, the bank aims to identify distinct customer segments based on these categorical attributes. This segmentation allows for more effective targeting of marketing campaigns and personalized communication strategies. The benefit lies in optimizing marketing efforts, enhancing customer engagement, and increasing the likelihood of customers subscribing to the bank services such as term deposits or insurances, ultimately improving the bank's marketing ROI and customer satisfaction.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Customer-Segmentation-for-Targeted-Marketing-in-Banking)
 
 <center><img src="assets/img/Banking Customer segmentation.jpg"/></center>
 <br>
@@ -219,7 +219,7 @@ This project focuses on applying K-Mode clustering to a dataset related to direc
 Developing a custom convolutional neural network (CNN) in TensorFlow for multiclass classification, the goal is to accurately detect melanoma, a potentially deadly form of cancer. Early detection is crucial, as melanoma accounts for a significant portion of skin cancer-related fatalities. This solution aims to streamline diagnosis by evaluating images and notifying dermatologists of melanoma presence, reducing manual effort. The dataset, comprising 2357 images of malignant and benign skin conditions, originates from the International Skin Imaging Collaboration (ISIC). With this model, various skin diseases, including melanoma, can be identified and also rectifying the imbalances with the data, aiding in timely medical intervention and potentially saving lives.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Melanoma-Detection)
 
 <center><img src="assets/img/melonoma detection.jpg"/></center>
 <br>
@@ -228,7 +228,7 @@ Developing a custom convolutional neural network (CNN) in TensorFlow for multicl
 Developed a gesture recognition feature for smart TVs, aiming to enhance user experience. Users can control their TVs through hand gestures, eliminating the need for a remote control. By recognizing gestures like thumbs up for volume and left swipe for rewind, the TV responds which are continuously monitored by the TV's webcam , making home entertainment more enjoyable. This is performed using 2 architectures CNN + RNN and 3D Convolutional Networks, to optimize gesture recognition. This research aims to redefine how users interact with their smart TVs, offering a seamless and intuitive experience.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Gesture-Recognition-Project)
 
 <center><img src="assets/img/Gesture recognition.png"/></center>
 <br>
@@ -237,7 +237,7 @@ Developed a gesture recognition feature for smart TVs, aiming to enhance user ex
 In the domain of aviation, ensuring aircraft engine reliability is paramount to passenger safety and operational efficiency. Predictive maintenance, utilizing sensor data and configuration settings, plays a crucial role in identifying and preventing potential engine failures. By analyzing this data, we aim to predict when an engine may fail before reaching a certain number of flight cycles, enabling timely maintenance and reducing the risk of in-flight issues. This proactive approach not only enhances passenger safety but also minimizes operational disruptions and maintenance costs, making air travel more reliable and cost-effective.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Enhancing-Aircraft-Engine-Reliability-with-Predictive-Maintenance-using-RNN)
 
 <center><img src="assets/img/predictive-maintenance-the-future-of-aviation-1.png"/></center>
 <br>
@@ -246,7 +246,7 @@ In the domain of aviation, ensuring aircraft engine reliability is paramount to 
 In this flower classification project, we employ deep learning, specifically using the ResNet architecture, to classify flowers into "roses" and "daisies." This covers preprocessing techniques, morphological transformations, data augmentation, hyperparameter tuning and conduct ablation experiments to fine-tune the model's performance. The ability to efficiently classify flowers not only introduces key methodologies but also lays the foundation for broader applications in image recognition and categorization, benefiting various domains such as agriculture, healthcare, and botany.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Enhancing-Flower-image-Classification-with-Deep-Learning)
 
 <center><img src="assets/img/classify flower images.png"/></center>
 <br>
@@ -255,7 +255,7 @@ In this flower classification project, we employ deep learning, specifically usi
 In this flower classification project, we employ deep learning, specifically using the ResNet architecture, to classify flowers into "roses" and "daisies." This covers preprocessing techniques, morphological transformations, data augmentation, hyperparameter tuning and conduct ablation experiments to fine-tune the model's performance. The ability to efficiently classify flowers not only introduces key methodologies but also lays the foundation for broader applications in image recognition and categorization, benefiting various domains such as agriculture, healthcare, and botany.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Chest-X-Ray-Anomaly-Detection-using-CNNs)
 
 <center><img src="assets/img/chest x ray detection.png"/></center>
 <br>
@@ -264,7 +264,7 @@ In this flower classification project, we employ deep learning, specifically usi
 This project involves developing a custom Named Entity Recognition (NER) system to extract disease names and corresponding treatments from medical datasets. It addresses the challenge of comprehending complex medical texts for non-medical individuals and enables the automated extraction of valuable insights. By leveraging syntactic processing techniques, we aim to extract valuable insights from complex medical texts, bridging the gap for non-medical individuals. The practical benefit of this activity lies in enhancing healthcare analytics, facilitating medical research, and ultimately improving patient care by automating the extraction of disease-treatment relationships from medical texts, saving time and effort for healthcare professionals and researchers.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/NLP-for-Medical-Texts-Extracting-Disease-Treatment-Relationships)
 
 <center><img src="assets/img/Extracting Disease-Treatment Relationships.jpg"/></center>
 <br>
@@ -273,7 +273,7 @@ This project involves developing a custom Named Entity Recognition (NER) system 
 In this case study, we tackle the challenge of automating the classification of customer complaints in a financial company. By developing a model, we aim to categorize complaints related to various products and services, streamlining the ticket resolution process. This automation enhances customer satisfaction, loyalty, and overall service quality. Leveraging non-negative matrix factorization (NMF) for topic modeling, we uncover patterns and important keywords within the complaints, facilitating their classification into five key categories: credit card/prepaid card, bank account services, theft/dispute reporting, mortgages/loans, and others. This approach optimizes customer support operations and allows for quick issue resolution, benefiting both customers and the company. The dataset comprises 78,313 customer complaints, providing valuable insights for informed decision-making and service improvement.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Ticket-Classification-Assignment)
 
 <center><img src="assets/img/automatic ticket classification.jpeg"/></center>
 <br>
@@ -282,7 +282,7 @@ In this case study, we tackle the challenge of automating the classification of 
 This project focuses on predicting fraudulent credit card transactions using machine learning models with customer-level data. The dataset, consisting of 2,84,807 transactions, including 492 fraudulent cases, requires addressing class imbalance.Banking fraud poses a significant threat, estimated to reach $30 billion globally by 2020. Machine learning plays a crucial role in proactive fraud detection, helping banks reduce manual reviews, chargebacks, and the denial of legitimate transactions.Credit card fraud encompasses various tactics, such as skimming, manipulation, counterfeiting, theft, and telemarketing. By leveraging machine learning, this project aids financial institutions in combating fraud, preserving customer trust, and minimizing financial losses and operational expenses.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Capstone-Credit-Card-Fraud-Detection)
 
 <center><img src="assets/img/credit card fraud detection.webp"/></center>
 <br>
