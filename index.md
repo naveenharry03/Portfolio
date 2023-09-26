@@ -180,7 +180,7 @@ Utilized historical loan applicant data from 2007 to 2011 to make data-driven de
 <br>
 ### Heart Disease Predicting Using Decision Trees
 
-This project aims to predict the presence of heart disease based on attributes such as gender, age, and cholesterol levels using decision trees. By creating a flowchart-like diagram, the model assists in identifying individuals with or without heart disease using hyperparameters such as max_depth, min_samples_split, min_samples_leaf and criterion (Gini/IG or entropy), and understand how they impact the model performance.The dataset comprises patient test results and personal details, with heart disease labeled as 1 for presence and 0 for absence, while gender labeled as 0 for females and 1 for males. This predictive model benefits healthcare professionals by providing a valuable tool for early detection and diagnosis, ultimately improving patient care and outcomes.
+<p style="text-align: justify;">This project aims to predict the presence of heart disease based on attributes such as gender, age, and cholesterol levels using decision trees. By creating a flowchart-like diagram, the model assists in identifying individuals with or without heart disease using hyperparameters such as max_depth, min_samples_split, min_samples_leaf and criterion (Gini/IG or entropy), and understand how they impact the model performance.The dataset comprises patient test results and personal details, with heart disease labeled as 1 for presence and 0 for absence, while gender labeled as 0 for females and 1 for males. This predictive model benefits healthcare professionals by providing a valuable tool for early detection and diagnosis, ultimately improving patient care and outcomes.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Heart-Disease-Predicting-Using-Decision-Trees)
@@ -189,7 +189,7 @@ This project aims to predict the presence of heart disease based on attributes s
 <br>
 ### Employee Attrition Prediction Using Gradient Boosting and XGBoost
 
-This project focuses on employee attrition prediction, utilizing a dataset encompassing over 35 attributes, including employee personal information, job and role details, work history, education, and leave records. To address this challenge, we employ gradient boosting and XGBoost algorithms. By using the power of these advanced techniques, organizations can benefit from more accurate and efficient employee attrition prediction, facilitating proactive HR management, talent retention, and workforce planning. Gradient boosting and XGBoost enhance classification tasks by capturing complex relationships within the data, resulting in improved decision-making and reduced employee turnover.
+<p style="text-align: justify;">This project focuses on employee attrition prediction, utilizing a dataset encompassing over 35 attributes, including employee personal information, job and role details, work history, education, and leave records. To address this challenge, we employ gradient boosting and XGBoost algorithms. By using the power of these advanced techniques, organizations can benefit from more accurate and efficient employee attrition prediction, facilitating proactive HR management, talent retention, and workforce planning. Gradient boosting and XGBoost enhance classification tasks by capturing complex relationships within the data, resulting in improved decision-making and reduced employee turnover.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Employee-Attrition-Prediction-Using-Gradient-Boosting-and-XGBoost)
@@ -198,7 +198,7 @@ This project focuses on employee attrition prediction, utilizing a dataset encom
 <br>
 ### Customer Segmentation for Targeted Marketing using unsupervised techniques
 
-Leveraging a transnational dataset capturing transactions from 01/12/2010 to 09/12/2011 for a UK-based online retail company specializing in unique gifts, this project aims to identify distinct customer segments based on recency, frequency, and monetary value metrics. These segments enable precise marketing strategies, allowing the company to tailor its efforts to different customer groups effectively. By categorizing customers strategically, the company can optimize its marketing initiatives, enhance customer engagement, and ultimately drive sales growth and customer retention.
+<p style="text-align: justify;">Leveraging a transnational dataset capturing transactions from 01/12/2010 to 09/12/2011 for a UK-based online retail company specializing in unique gifts, this project aims to identify distinct customer segments based on recency, frequency, and monetary value metrics. These segments enable precise marketing strategies, allowing the company to tailor its efforts to different customer groups effectively. By categorizing customers strategically, the company can optimize its marketing initiatives, enhance customer engagement, and ultimately drive sales growth and customer retention.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Customer-Segmentation-for-Targeted-Marketing-using-unsupervised-techniques)
@@ -207,7 +207,7 @@ Leveraging a transnational dataset capturing transactions from 01/12/2010 to 09/
 <br>
 ### Customer Segmentation for Targeted Marketing in Banking
 
-This project focuses on applying K-Mode clustering to a dataset related to direct marketing campaigns conducted by a Portuguese banking institution. The dataset includes attributes such as customer age, job type, marital status, education, credit status, housing and personal loans, contact communication, last contact month, last contact day of the week, and the outcome of the previous marketing campaign. By leveraging K-Mode clustering, the bank aims to identify distinct customer segments based on these categorical attributes. This segmentation allows for more effective targeting of marketing campaigns and personalized communication strategies. The benefit lies in optimizing marketing efforts, enhancing customer engagement, and increasing the likelihood of customers subscribing to the bank services such as term deposits or insurances, ultimately improving the bank's marketing ROI and customer satisfaction.
+<p style="text-align: justify;">This project focuses on applying K-Mode clustering to a dataset related to direct marketing campaigns conducted by a Portuguese banking institution. The dataset includes attributes such as customer age, job type, marital status, education, credit status, housing and personal loans, contact communication, last contact month, last contact day of the week, and the outcome of the previous marketing campaign. By leveraging K-Mode clustering, the bank aims to identify distinct customer segments based on these categorical attributes. This segmentation allows for more effective targeting of marketing campaigns and personalized communication strategies. The benefit lies in optimizing marketing efforts, enhancing customer engagement, and increasing the likelihood of customers subscribing to the bank services such as term deposits or insurances, ultimately improving the bank's marketing ROI and customer satisfaction.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Customer-Segmentation-for-Targeted-Marketing-in-Banking)
@@ -216,7 +216,7 @@ This project focuses on applying K-Mode clustering to a dataset related to direc
 <br>
 ### Melanoma Detection with Custom CNN
 
-Developing a custom convolutional neural network (CNN) in TensorFlow for multiclass classification, the goal is to accurately detect melanoma, a potentially deadly form of cancer. Early detection is crucial, as melanoma accounts for a significant portion of skin cancer-related fatalities. This solution aims to streamline diagnosis by evaluating images and notifying dermatologists of melanoma presence, reducing manual effort. The dataset, comprising 2357 images of malignant and benign skin conditions, originates from the International Skin Imaging Collaboration (ISIC). With this model, various skin diseases, including melanoma, can be identified and also rectifying the imbalances with the data, aiding in timely medical intervention and potentially saving lives.
+<p style="text-align: justify;">Developing a custom convolutional neural network (CNN) in TensorFlow for multiclass classification, the goal is to accurately detect melanoma, a potentially deadly form of cancer. Early detection is crucial, as melanoma accounts for a significant portion of skin cancer-related fatalities. This solution aims to streamline diagnosis by evaluating images and notifying dermatologists of melanoma presence, reducing manual effort. The dataset, comprising 2357 images of malignant and benign skin conditions, originates from the International Skin Imaging Collaboration (ISIC). With this model, various skin diseases, including melanoma, can be identified and also rectifying the imbalances with the data, aiding in timely medical intervention and potentially saving lives.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Melanoma-Detection)
@@ -225,7 +225,7 @@ Developing a custom convolutional neural network (CNN) in TensorFlow for multicl
 <br>
 ### Enhancing Smart TV Experience with Gesture Recognition Using Neural Networks
 
-Developed a gesture recognition feature for smart TVs, aiming to enhance user experience. Users can control their TVs through hand gestures, eliminating the need for a remote control. By recognizing gestures like thumbs up for volume and left swipe for rewind, the TV responds which are continuously monitored by the TV's webcam , making home entertainment more enjoyable. This is performed using 2 architectures CNN + RNN and 3D Convolutional Networks, to optimize gesture recognition. This research aims to redefine how users interact with their smart TVs, offering a seamless and intuitive experience.
+<p style="text-align: justify;">Developed a gesture recognition feature for smart TVs, aiming to enhance user experience. Users can control their TVs through hand gestures, eliminating the need for a remote control. By recognizing gestures like thumbs up for volume and left swipe for rewind, the TV responds which are continuously monitored by the TV's webcam , making home entertainment more enjoyable. This is performed using 2 architectures CNN + RNN and 3D Convolutional Networks, to optimize gesture recognition. This research aims to redefine how users interact with their smart TVs, offering a seamless and intuitive experience.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Gesture-Recognition-Project)
@@ -234,7 +234,7 @@ Developed a gesture recognition feature for smart TVs, aiming to enhance user ex
 <br>
 ### Enhancing Aircraft Engine Reliability with Predictive Maintenance using RNN
 
-In the domain of aviation, ensuring aircraft engine reliability is paramount to passenger safety and operational efficiency. Predictive maintenance, utilizing sensor data and configuration settings, plays a crucial role in identifying and preventing potential engine failures. By analyzing this data, we aim to predict when an engine may fail before reaching a certain number of flight cycles, enabling timely maintenance and reducing the risk of in-flight issues. This proactive approach not only enhances passenger safety but also minimizes operational disruptions and maintenance costs, making air travel more reliable and cost-effective.
+<p style="text-align: justify;">In the domain of aviation, ensuring aircraft engine reliability is paramount to passenger safety and operational efficiency. Predictive maintenance, utilizing sensor data and configuration settings, plays a crucial role in identifying and preventing potential engine failures. By analyzing this data, we aim to predict when an engine may fail before reaching a certain number of flight cycles, enabling timely maintenance and reducing the risk of in-flight issues. This proactive approach not only enhances passenger safety but also minimizes operational disruptions and maintenance costs, making air travel more reliable and cost-effective.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Enhancing-Aircraft-Engine-Reliability-with-Predictive-Maintenance-using-RNN)
@@ -243,7 +243,7 @@ In the domain of aviation, ensuring aircraft engine reliability is paramount to 
 <br>
 ### Enhancing Flower image Classification with Deep Learning
 
-In this flower classification project, we employ deep learning, specifically using the ResNet architecture, to classify flowers into "roses" and "daisies." This covers preprocessing techniques, morphological transformations, data augmentation, hyperparameter tuning and conduct ablation experiments to fine-tune the model's performance. The ability to efficiently classify flowers not only introduces key methodologies but also lays the foundation for broader applications in image recognition and categorization, benefiting various domains such as agriculture, healthcare, and botany.
+<p style="text-align: justify;">In this flower classification project, we employ deep learning, specifically using the ResNet architecture, to classify flowers into "roses" and "daisies." This covers preprocessing techniques, morphological transformations, data augmentation, hyperparameter tuning and conduct ablation experiments to fine-tune the model's performance. The ability to efficiently classify flowers not only introduces key methodologies but also lays the foundation for broader applications in image recognition and categorization, benefiting various domains such as agriculture, healthcare, and botany.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Enhancing-Flower-image-Classification-with-Deep-Learning)
@@ -252,7 +252,7 @@ In this flower classification project, we employ deep learning, specifically usi
 <br>
 ### Chest X-Ray Anomaly Detection using CNNs
 
-In this flower classification project, we employ deep learning, specifically using the ResNet architecture, to classify flowers into "roses" and "daisies." This covers preprocessing techniques, morphological transformations, data augmentation, hyperparameter tuning and conduct ablation experiments to fine-tune the model's performance. The ability to efficiently classify flowers not only introduces key methodologies but also lays the foundation for broader applications in image recognition and categorization, benefiting various domains such as agriculture, healthcare, and botany.
+<p style="text-align: justify;">In this flower classification project, we employ deep learning, specifically using the ResNet architecture, to classify flowers into "roses" and "daisies." This covers preprocessing techniques, morphological transformations, data augmentation, hyperparameter tuning and conduct ablation experiments to fine-tune the model's performance. The ability to efficiently classify flowers not only introduces key methodologies but also lays the foundation for broader applications in image recognition and categorization, benefiting various domains such as agriculture, healthcare, and botany.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Chest-X-Ray-Anomaly-Detection-using-CNNs)
@@ -261,7 +261,7 @@ In this flower classification project, we employ deep learning, specifically usi
 <br>
 ### NLP for Medical Texts: Extracting Disease-Treatment Relationships
 
-This project involves developing a custom Named Entity Recognition (NER) system to extract disease names and corresponding treatments from medical datasets. It addresses the challenge of comprehending complex medical texts for non-medical individuals and enables the automated extraction of valuable insights. By leveraging syntactic processing techniques, we aim to extract valuable insights from complex medical texts, bridging the gap for non-medical individuals. The practical benefit of this activity lies in enhancing healthcare analytics, facilitating medical research, and ultimately improving patient care by automating the extraction of disease-treatment relationships from medical texts, saving time and effort for healthcare professionals and researchers.
+<p style="text-align: justify;">This project involves developing a custom Named Entity Recognition (NER) system to extract disease names and corresponding treatments from medical datasets. It addresses the challenge of comprehending complex medical texts for non-medical individuals and enables the automated extraction of valuable insights. By leveraging syntactic processing techniques, we aim to extract valuable insights from complex medical texts, bridging the gap for non-medical individuals. The practical benefit of this activity lies in enhancing healthcare analytics, facilitating medical research, and ultimately improving patient care by automating the extraction of disease-treatment relationships from medical texts, saving time and effort for healthcare professionals and researchers.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/NLP-for-Medical-Texts-Extracting-Disease-Treatment-Relationships)
@@ -270,7 +270,7 @@ This project involves developing a custom Named Entity Recognition (NER) system 
 <br>
 ### Automated Ticket Classification for Financial Customer Complaints
 
-In this case study, we tackle the challenge of automating the classification of customer complaints in a financial company. By developing a model, we aim to categorize complaints related to various products and services, streamlining the ticket resolution process. This automation enhances customer satisfaction, loyalty, and overall service quality. Leveraging non-negative matrix factorization (NMF) for topic modeling, we uncover patterns and important keywords within the complaints, facilitating their classification into five key categories: credit card/prepaid card, bank account services, theft/dispute reporting, mortgages/loans, and others. This approach optimizes customer support operations and allows for quick issue resolution, benefiting both customers and the company. The dataset comprises 78,313 customer complaints, providing valuable insights for informed decision-making and service improvement.
+<p style="text-align: justify;">In this case study, we tackle the challenge of automating the classification of customer complaints in a financial company. By developing a model, we aim to categorize complaints related to various products and services, streamlining the ticket resolution process. This automation enhances customer satisfaction, loyalty, and overall service quality. Leveraging non-negative matrix factorization (NMF) for topic modeling, we uncover patterns and important keywords within the complaints, facilitating their classification into five key categories: credit card/prepaid card, bank account services, theft/dispute reporting, mortgages/loans, and others. This approach optimizes customer support operations and allows for quick issue resolution, benefiting both customers and the company. The dataset comprises 78,313 customer complaints, providing valuable insights for informed decision-making and service improvement.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Ticket-Classification-Assignment)
@@ -279,7 +279,7 @@ In this case study, we tackle the challenge of automating the classification of 
 <br>
 ### Credit Card Fraud Detection
 
-This project focuses on predicting fraudulent credit card transactions using machine learning models with customer-level data. The dataset, consisting of 2,84,807 transactions, including 492 fraudulent cases, requires addressing class imbalance.Banking fraud poses a significant threat, estimated to reach $30 billion globally by 2020. Machine learning plays a crucial role in proactive fraud detection, helping banks reduce manual reviews, chargebacks, and the denial of legitimate transactions.Credit card fraud encompasses various tactics, such as skimming, manipulation, counterfeiting, theft, and telemarketing. By leveraging machine learning, this project aids financial institutions in combating fraud, preserving customer trust, and minimizing financial losses and operational expenses.
+<p style="text-align: justify;">This project focuses on predicting fraudulent credit card transactions using machine learning models with customer-level data. The dataset, consisting of 2,84,807 transactions, including 492 fraudulent cases, requires addressing class imbalance.Banking fraud poses a significant threat, estimated to reach $30 billion globally by 2020. Machine learning plays a crucial role in proactive fraud detection, helping banks reduce manual reviews, chargebacks, and the denial of legitimate transactions.Credit card fraud encompasses various tactics, such as skimming, manipulation, counterfeiting, theft, and telemarketing. By leveraging machine learning, this project aids financial institutions in combating fraud, preserving customer trust, and minimizing financial losses and operational expenses.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Capstone-Credit-Card-Fraud-Detection)
@@ -288,7 +288,7 @@ This project focuses on predicting fraudulent credit card transactions using mac
 <br>
 ### MLOPS - An End-to-End Pipeline
 
-The project's objective is to create an end-to-end pipeline for lead scoring, utilizing Airflow and MLflow to facilitate seamless data processing, training, and inference. The primary goal is to categorize leads based on their propensity to purchase CodePro's courses, thus optimizing lead conversion, refining targeting efforts, and eliminating inefficiencies caused by junk leads in the sales process. This initiative is driven by the business metric L2AC (Leads to Application Completion), ensuring a more efficient and data-driven approach to customer acquisition and engagement.Also Deployed another use case - heart disease through docker. Please find the basic template in the below github link
+<p style="text-align: justify;">The project's objective is to create an end-to-end pipeline for lead scoring, utilizing Airflow and MLflow to facilitate seamless data processing, training, and inference. The primary goal is to categorize leads based on their propensity to purchase CodePro's courses, thus optimizing lead conversion, refining targeting efforts, and eliminating inefficiencies caused by junk leads in the sales process. This initiative is driven by the business metric L2AC (Leads to Application Completion), ensuring a more efficient and data-driven approach to customer acquisition and engagement.Also Deployed another use case - heart disease through docker. Please find the basic template in the below github link.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/MLOPS---An-End-to-End-Pipeline)
@@ -297,7 +297,7 @@ The project's objective is to create an end-to-end pipeline for lead scoring, ut
 <br>
 ### Capstone Data Strategy Case Study
 
-This capstone data science project focuses on improving the delivery date prediction system for Olist, an e-commerce platform, with the goal of enhancing customer satisfaction and reducing inventory costs. Additionally, I have undertaken projects including sentiment analysis of Portuguese reviews, customer churn prediction, customer acquisition cost optimization, fraud detection, and price optimization, all designed to address critical business challenges for Olist. These projects leverage data-driven strategies and machine learning techniques to achieve tangible benefits such as increased revenue, reduced costs, and improved customer experience, showcasing my expertise in data science and its applications.
+<p style="text-align: justify;">This capstone data science project focuses on improving the delivery date prediction system for Olist, an e-commerce platform, with the goal of enhancing customer satisfaction and reducing inventory costs. Additionally, I have undertaken projects including sentiment analysis of Portuguese reviews, customer churn prediction, customer acquisition cost optimization, fraud detection, and price optimization, all designed to address critical business challenges for Olist. These projects leverage data-driven strategies and machine learning techniques to achieve tangible benefits such as increased revenue, reduced costs, and improved customer experience, showcasing my expertise in data science and its applications.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Capstone-Data-Strategy-Case-Study)
@@ -306,7 +306,7 @@ This capstone data science project focuses on improving the delivery date predic
 <br>
 ### Sales Forecasting using Arima and SArima Model
 
-Another significant project in the data science portfolio involves sales forecasting for a French company, Perrin-Freres, known for its monthly champagne sales. Leveraging advanced time series forecasting techniques, particularly ARIMA and SARIMA models, a robust predictive system was developed. This project enables organizations to make informed decisions, optimize inventory management, and meet customer demand more effectively. Accurate sales predictions enhance operational efficiency, boost revenue, and maintain a competitive edge in the market.
+<p style="text-align: justify;">Another significant project in the data science portfolio involves sales forecasting for a French company, Perrin-Freres, known for its monthly champagne sales. Leveraging advanced time series forecasting techniques, particularly ARIMA and SARIMA models, a robust predictive system was developed. This project enables organizations to make informed decisions, optimize inventory management, and meet customer demand more effectively. Accurate sales predictions enhance operational efficiency, boost revenue, and maintain a competitive edge in the market.</p>
 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Sales-Forecasting-using-Arima-and-SArima-Model)
