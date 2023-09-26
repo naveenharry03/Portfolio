@@ -94,7 +94,7 @@ Examined a digital media company's viewership decline for a show's launch. Inves
 
 Developed a Multiple Linear Regression model to predict bike sharing demand, providing crucial support to BoomBikes, a US bike-sharing provider struggling post-Covid-19. Analyzed various factors impacting bike demand, successfully identifying significant variables that influence demand dynamics. This model equips BoomBikes with actionable insights, enabling precise adjustment of business strategies to meet demand fluctuations and exceed customer expectations. By navigating the evolving market landscape with data-driven decisions, the company not only recovers but thrives in the post-pandemic economy, boosting profitability and ensuring a competitive edge in the industry.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Bike-Sharing-Assignment)
 
 <center><img src="assets/img/Bike Sharing.jpg"/></center>
 <br>
@@ -102,7 +102,7 @@ Developed a Multiple Linear Regression model to predict bike sharing demand, pro
 
 Employed 21 customer behavior-related variables, encompassing statistics, services availed, and expenses, to develop a predictive model for a telecom firm. The primary objective is to forecast customer churn, indicating whether a customer will switch to another provider or stay. The binary 'Churn' variable (1 for churned, 0 for not churned) serves as the target variable. This model equips the telecom company with the capability to proactively identify potential churners, allowing them to implement retention strategies, enhance customer satisfaction, and optimize business profitability by reducing customer attrition.Model performance was assessed using a confusion matrix, ROC curve for threshold optimization, and key metrics including precision, recall, accuracy, and F1 score to ensure robust evaluation.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Multivariate-Logistic-Regression---Telecom-Churn-Prediction)
 
 <center><img src="assets/img/Telecom Churn Study.jpg"/></center>
 <br>
@@ -111,7 +111,7 @@ Employed 21 customer behavior-related variables, encompassing statistics, servic
 This exercise focuses on text classification using Multinomial and Bernoulli Naive Bayes models. Used dataset with sentences categorized into two classes: education and cinema. Each sentence represents a document, allowing us to demonstrate the effectiveness of these algorithms in distinguishing between different types of text. The process involves importing and preprocessing the data, followed by the construction of classification models. These models are versatile, providing valuable insights and automation for text-based Classification tasks.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Text-Classification-with-Multinomial-and-Bernoulli-Naive-Bayes)
 
 <center><img src="assets/img/Text Classification naive.jpg"/></center>
 <br>
@@ -120,7 +120,7 @@ This exercise focuses on text classification using Multinomial and Bernoulli Nai
 In this project, implemented a full-fledged Naive Bayes classifier in Python to distinguish between spam and non-spam (ham) SMS messages using the 'SMS dataset.' Explored two Naive Bayes variants: Multinomial Naive Bayes and Bernoulli Naive Bayes, comparing their performance in spam detection. The dataset contains labeled SMS messages, making it suitable for training and evaluating the models. By applying Naive Bayes algorithms to this real-world application, we showcase their effectiveness in identifying unwanted spam messages, contributing to enhanced email and text message filtering systems.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/SMS-Spam-Ham-Classifier-with-Multinomial-and-Bernoulli-Naive-Bayes)
 
 <center><img src="assets/img/SMS Spam detection.png"/></center>
 <br>
@@ -129,7 +129,7 @@ In this project, implemented a full-fledged Naive Bayes classifier in Python to 
 In this project, experimented an in-depth analysis to predict sales based on marketing spend, employing various regression techniques. Explored linear regression for a basic understanding, polynomial regression to capture nonlinear relationships, and ridge regression to manage model complexity and prevent overfitting. The goal was to strike a balance between bias and variance to create a robust sales prediction model. This project enhanced regression modeling skills and demonstrated the importance of regularization in achieving reliable predictions for real-world business applications.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Sales-Prediction-and-Model-Complexity-Management)
 
 <center><img src="assets/img/salesprediction.webp"/></center>
 <br>
@@ -138,7 +138,7 @@ In this project, experimented an in-depth analysis to predict sales based on mar
 This project involves predicting car prices using various car components and accessories as independent variables. It explores three regression techniques: linear, ridge, and lasso regression, aiming to strike a balance between model complexity , finding the lamdha value and overfitting. Through thorough analysis and hyperparameter tuning with grid cross-validation, we determine the best approach among the three for optimal accuracy and robustness. This experience underscores the importance of regularization in delivering accurate predictions for complex real-world scenarios.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Car-Price-Prediction-and-Model-Evaluation)
 
 <center><img src="assets/img/Car price prediction.jpg"/></center>
 <br>
@@ -147,7 +147,7 @@ This project involves predicting car prices using various car components and acc
 In this project, our objective is to build a regression model with regularization to predict property prices for a US-based housing company, Surprise Housing, entering the Australian market. Leveraging data analytics, we aim to identify significant variables that influence house prices and gauge their impact. Furthermore, we determine the optimal lambda values for ridge and lasso regression to strike a balance between model complexity and predictive accuracy. The model's insights will empower the company to make informed investment decisions, tailor its market strategy, and focus on high-return areas in the Australian real estate market, enhancing profitability and market entry success.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Sharing_Housing--Advanced-Regression)
 
 <center><img src="assets/img/Housing market Predictions.jpg"/></center>
 <br>
@@ -156,7 +156,7 @@ In this project, our objective is to build a regression model with regularizatio
 This project focuses on solving the classic problem of handwritten digit recognition using Support Vector Machines (SVM). With a dataset containing images of handwritten digits from 0 to 9 and their corresponding pixel values as features, our aim to build a 10-class classification model. The MNIST dataset provides 784 features, corresponding to the 28x28 pixel images. By experimenting with SVM hyperparameters, we strive to achieve high accuracy in identifying the handwritten digits. Although neural networks havegained popularity in this domain, SVMs were once state-of-the-art and remain a valuable approach. Subsampling the large training dataset and judiciously tuning hyperparameters, we target an accuracy exceeding 90%, demonstrating the effectiveness of SVMs inthis pattern recognition task.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Handwritten-Digit-Recognition-with-SVM)
 
 <center><img src="assets/img/digit recognition.jpg"/></center>
 <br>
@@ -165,7 +165,7 @@ This project focuses on solving the classic problem of handwritten digit recogni
 This project addresses the multiclass classification problem of letter recognition with Support Vector Machines (SVM).This multiclass classification task involves recognizing the 26 English alphabets. The dataset comprises handwritten alphabet images that are pixelated into m x n pixels, with pixel values denoting ink density. Each image yields 16 features, including box width and variance-related metrics. Notably, the pixel distribution can vary for the same alphabet. The goal is to leverage SVMs to accurately classify these images into their respective alphabet classes, demonstrating the model's efficacy in handling complex pattern recognition tasks.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/English-Alphabets-Recognition-Using-SVM)
 
 <center><img src="assets/img/character recognition.jpg"/></center>
 <br>
@@ -174,7 +174,7 @@ This project addresses the multiclass classification problem of letter recogniti
 This project compares decision trees, random forests, and logistic regression for telecom churn prediction.Using a dataset with 21 customer behavior-related variables like monthly bills and internet usage, the goal is to predict customer churn or non-churn.Random forests outperform the others, leveraging the predictive power of decision trees. However, logistic regression provides better feature visibility and understanding of their effects on predictions. If interpretation is not crucial, random forests excel in predictive accuracy and are an excellent choice for this task.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Evaluating-Telecom-Churn-Prediction-Models)
 
 <center><img src="assets/img/evaluate churn prediction.png"/></center>
 <br>
@@ -183,7 +183,7 @@ This project compares decision trees, random forests, and logistic regression fo
 This project aims to predict the presence of heart disease based on attributes such as gender, age, and cholesterol levels using decision trees. By creating a flowchart-like diagram, the model assists in identifying individuals with or without heart disease using hyperparameters such as max_depth, min_samples_split, min_samples_leaf and criterion (Gini/IG or entropy), and understand how they impact the model performance.The dataset comprises patient test results and personal details, with heart disease labeled as 1 for presence and 0 for absence, while gender labeled as 0 for females and 1 for males. This predictive model benefits healthcare professionals by providing a valuable tool for early detection and diagnosis, ultimately improving patient care and outcomes.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Heart-Disease-Predicting-Using-Decision-Trees)
 
 <center><img src="assets/img/Heart disease prediction.jpg"/></center>
 <br>
@@ -192,7 +192,7 @@ This project aims to predict the presence of heart disease based on attributes s
 This project focuses on employee attrition prediction, utilizing a dataset encompassing over 35 attributes, including employee personal information, job and role details, work history, education, and leave records. To address this challenge, we employ gradient boosting and XGBoost algorithms. By using the power of these advanced techniques, organizations can benefit from more accurate and efficient employee attrition prediction, facilitating proactive HR management, talent retention, and workforce planning. Gradient boosting and XGBoost enhance classification tasks by capturing complex relationships within the data, resulting in improved decision-making and reduced employee turnover.
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Fraud_Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/naveenharry03/Employee-Attrition-Prediction-Using-Gradient-Boosting-and-XGBoost)
 
 <center><img src="assets/img/employee attrition rate.jpg"/></center>
 <br>
